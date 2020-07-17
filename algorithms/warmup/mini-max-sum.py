@@ -1,12 +1,6 @@
-#!/bin/python3
+# Problem: https://www.hackerrank.com/challenges/mini-max-sum/problem
+# Score: 10
 
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the miniMaxSum function below.
 def miniMaxSum(arr):
     smallest = arr[0]
     largest = 0
@@ -19,7 +13,7 @@ def miniMaxSum(arr):
         total = total + arr[i]
     print(total - largest, total - smallest)
 
-if __name__ == '__main__':
-    arr = list(map(int, input().rstrip().split()))
-
-    miniMaxSum(arr)
+def altMiniMaxSum(arr):
+    minSum = sum(arr) - max(arr)
+    maxSume = sum(arr) - min(arr)
+    print(minSum, maxSum)
