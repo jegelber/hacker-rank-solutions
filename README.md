@@ -6,4 +6,5 @@ Profile: [gelber_j1](https://www.hackerrank.com/gelber_j1)
 ## Algorithms
 ### Warmup
   - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/warmup/mini-max-sum.py) | Score: 10
+  - Birthday Cake Candles: [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/warmup/birthday-cake-candles.py) | Score: 10
 ## Data Structures
