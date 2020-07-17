@@ -1,5 +1,7 @@
 # Solutions to HackerRank Practice Problems
-This repository contains Python 3 programs that have been submitted as solutions to HackerRank practice problems. 
+This repository contains Python 3 programs that have been submitted as solutions to HackerRank practice problems.
+
+Profile: [gelber_j1](https://www.hackerrank.com/gelber_j1)
 
 ## Algorithms
 ### Warmup
