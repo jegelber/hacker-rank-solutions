@@ -5,5 +5,5 @@ Profile: [gelber_j1](https://www.hackerrank.com/gelber_j1)
 
 ## Algorithms
 ### Warmup
-  - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution]() | Score: 10
+  - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/warmup/mini-max-sum.py) | Score: 10
 ## Data Structures
