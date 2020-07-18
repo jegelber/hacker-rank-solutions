@@ -1,5 +1,5 @@
 # Problem: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
-# Score: 10
+# Score: 10/10
 
 def birthdayCakeCandles(ar):
     tallest = max(ar)

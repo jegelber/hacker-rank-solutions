@@ -1,5 +1,5 @@
 # Problem: https://www.hackerrank.com/challenges/mini-max-sum/problem
-# Score: 10
+# Score: 10/10
 
 def miniMaxSum(arr):
     smallest = arr[0]
