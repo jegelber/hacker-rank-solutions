@@ -17,4 +17,6 @@ Profile: [gelber_j1](https://www.hackerrank.com/gelber_j1)
   - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/warmup/time-conversion.py) | Score: 15/15
 ### Implementation
   - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/grading.py) | Score: 10/10
+  - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/apple-and-orange.py) | Score: 10/10
+  - Kangaroo | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/kangaroo.py) | Score: 10/10
 ## Data Structures
