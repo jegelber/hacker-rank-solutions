@@ -15,4 +15,6 @@ Profile: [gelber_j1](https://www.hackerrank.com/gelber_j1)
   - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/warmup/mini-max-sum.py) | Score: 10/10
   - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/warmup/birthday-cake-candles.py) | Score: 10/10
   - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/warmup/time-conversion.py) | Score: 15/15
+### Implementation
+  - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/grading.py) | Score: 10/10
 ## Data Structures
