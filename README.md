@@ -19,4 +19,5 @@ Profile: [gelber_j1](https://www.hackerrank.com/gelber_j1)
   - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/grading.py) | Score: 10/10
   - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/apple-and-orange.py) | Score: 10/10
   - Kangaroo | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/kangaroo.py) | Score: 10/10
+  - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/jegelber/hackerrank-solutions/blob/master/algorithms/implementation/breaking-best-and-worst-records.py) | Score: 10/10
 ## Data Structures
