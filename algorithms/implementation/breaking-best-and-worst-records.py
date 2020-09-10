@@ -9,8 +9,8 @@ def breakingRecords(scores):
     for s in scores:
         if s > best:
             best = s
-            bcount = bcount + 1
+            bcount += 1
         if s < worst:
             worst = s
-            wcount = wcount + 1
+            wcount += 1
     return bcount, wcount
