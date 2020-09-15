@@ -26,4 +26,7 @@ Profile: [gelberje](https://www.hackerrank.com/gelberje)
   - Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/algorithms/implementation/day-of-the-programmer.py) | Score: 15/15
   - Bon Appetit | [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/algorithms/implementation/bon-appetit.py) | Score: 10/10
   - Drawing Book | [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/algorithms/implementation/drawing-book.py) | Score: 10/10
+  - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/algorithms/implementation/cats-and-a-mouse.py) | Score: 10/10
+  - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/algorithms/implementation/electronics-shop.py) | Score: 10/10
+  - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/algorithms/implementation/picking-numbers.py) | Score: 10/10
 ## Data Structures
