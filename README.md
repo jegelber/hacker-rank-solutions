@@ -38,3 +38,17 @@ Profile: [gelberje](https://www.hackerrank.com/gelberje)
   - Print The Elements Of A Linked List In Reverse | [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/data-structures/linked-lists/print-the-elements-of-a-linked-list-in-reverse.py) | Score: 5/5
   - Print The Elements Of A Linked List | [Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/data-structures/linked-lists/print-the-elements-of-a-linked-list.py) | Score: 5/5
   - Reverse A Linked List | [Problem](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/data-structures/linked-lists/reverse-a-linked-list.py) | Score: 5/5
+
+## Interview Preparation Kit
+### Arrays
+  - Array Manipulation | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/arrays/array-manipulation.py)
+  - CTCI Array Left Rotation | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/arrays/ctci-array-left-rotation.py)
+  - Minimum Swaps 2 | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/arrays/minimum-swaps-2.py)
+  - New Year Chaos | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/arrays/new-year-chaos.py)
+### Dictionaries and Hashmaps
+  - Count Triplets | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/dictionaries-and-hashmaps/count-triplets.py)
+  - Ransom Note | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/dictionaries-and-hashmaps/ransom-note.py)
+  - Two Strings | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/dictionaries-and-hashmaps/two-strings.py)
+### Stacks and Queues
+  - Balanced Brackets | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/stacks-and-queues/balanced-brackets.py)
+  - Queue A Tale of Two Stacks | [Solution](https://github.com/jordan-gelber/hackerrank-solutions/blob/master/interview-preparation-kit/stacks-and-queues/queue-a-tale-of-two-stacks.py)
